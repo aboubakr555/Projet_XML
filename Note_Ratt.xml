@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Notes>
+	<Student>
+		<FirstName>Agnaou</FirstName>
+		<LastName>Mohamed</LastName>
+		<Module>POO et XML </Module>
+		<Note>8</Note>
+		<Module>Modelisation et IHM</Module>
+		<Note>12</Note>
+		<Note>12.5</Note>
+		<Note>11.5</Note>
+		<Module>Administration et programmation systeme</Module>
+		<Note>12.5</Note>
+		<Module>Qualite et approche processus</Module>
+		<Note>12</Note>
+		<Module>Langues et communication 2</Module>
+		<Note>12</Note>
+		<Module>Technologies distribuees</Module>
+		<Note>13.5</Note>
+		<Module>Bases de donnees avancees 2 et Cloud</Module>
+		<Note>9.5</Note>
+		<Module>Traitement de l'image</Module>
+		<Note>12.5</Note>
+		<Module>Prge declarative et TAV</Module>
+		<Note>14</Note>
+		<Module>Securite et Cryptographie</Module>
+		<Note>11.8</Note>
+		<Module>Management de l'entreprise 2</Module>
+		<Note>16</Note>
+	</Student>
+	<Student>
+		<FirstName>Al Achkar</FirstName>
+		<LastName>Badr</LastName>
+		<Module>POO et XML </Module>
+		<Note>9.22</Note>
+		<Module>Modelisation et IHM</Module>
+		<Note>14</Note>
+		<Note>10.5</Note>
+		<Note>7.5</Note>
+		<Module>Administration et programmation systeme</Module>
+		<Note>10.5</Note>
+		<Module>Qualite et approche processus</Module>
+		<Note>14</Note>
+		<Module>Langues et communication 2</Module>
+		<Note>14</Note>
+		<Module>Technologies distribuees</Module>
+		<Note>12.8</Note>
+		<Module>Bases de donnees avancees 2 et Cloud</Module>
+		<Note>12.5</Note>
+		<Module>Traitement de l'image</Module>
+		<Note>11.5</Note>
+		<Module>Prge declarative et TAV</Module>
+		<Note>13.5</Note>
+		<Module>Securite et Cryptographie</Module>
+		<Note>12</Note>
+		<Module>Management de l'entreprise 2</Module>
+		<Note>16</Note>
+	</Student>
+	<Student>
+		<FirstName>Amara</FirstName>
+		<LastName>Asmae</LastName>
+		<Module>POO et XML </Module>
+		<Note>15.5</Note>
+		<Module>Modelisation et IHM</Module>
+		<Note>13.5</Note>
+		<Note>10.22</Note>
+		<Note>8.22</Note>
+		<Module>Administration et programmation systeme</Module>
+		<Note>10.22</Note>
+		<Module>Qualite et approche processus</Module>
+		<Note>13.5</Note>
+		<Module>Langues et communication 2</Module>
+		<Note>13.5</Note>
+		<Module>Technologies distribuees</Module>
+		<Note>12</Note>
+		<Module>Bases de donnees avancees 2 et Cloud</Module>
+		<Note>11.5</Note>
+		<Module>Traitement de l'image</Module>
+		<Note>12.3</Note>
+		<Module>Prge declarative et TAV</Module>
+		<Note>11.8</Note>
+		<Module>Securite et Cryptographie</Module>
+		<Note>12.5</Note>
+		<Module>Management de l'entreprise 2</Module>
+		<Note>15</Note>
+	</Student>
+	<Student>
+		<FirstName>EL HOUB</FirstName>
+		<LastName>YOUNESSE</LastName>
+		<Module>POO et XML </Module>
+		<Note>11.8</Note>
+		<Module>Modelisation et IHM</Module>
+		<Note>10.5</Note>
+		<Note>12.5</Note>
+		<Note>7.22</Note>
+		<Module>Administration et programmation systeme</Module>
+		<Note>12.5</Note>
+		<Module>Qualite et approche processus</Module>
+		<Note>8.22</Note>
+		<Module>Langues et communication 2</Module>
+		<Note>13.5</Note>
+		<Module>Technologies distribuees</Module>
+		<Note>11.8</Note>
+		<Module>Bases de donnees avancees 2 et Cloud</Module>
+		<Note>7.22</Note>
+		<Module>Traitement de l'image</Module>
+		<Note>13.5</Note>
+		<Module>Prge declarative et TAV</Module>
+		<Note>16</Note>
+		<Module>Securite et Cryptographie</Module>
+		<Note>12.8</Note>
+		<Module>Management de l'entreprise 2</Module>
+		<Note>12.8</Note>
+	</Student>
+	<Student>
+		<FirstName>kassrioui</FirstName>
+		<LastName>aboubakr</LastName>
+		<Module>POO et XML </Module>
+		<Note>12</Note>
+		<Module>Modelisation et IHM</Module>
+		<Note>5.22</Note>
+		<Note>16</Note>
+		<Note>13.5</Note>
+		<Module>Administration et programmation systeme</Module>
+		<Note>16</Note>
+		<Module>Qualite et approche processus</Module>
+		<Note>12</Note>
+		<Module>Langues et communication 4</Module>
+		<Note>12</Note>
+		<Module>Technologies distribuees</Module>
+		<Note>12</Note>
+		<Module>Bases de donnees avancees 2 et Cloud</Module>
+		<Note>12</Note>
+		<Module>Traitement de l'image</Module>
+		<Note>14.7</Note>
+		<Module>Prge declarative et TAV</Module>
+		<Note>12</Note>
+		<Module>Securite et Cryptographie</Module>
+		<Note>12.8</Note>
+		<Module>Management de l'entreprise 4</Module>
+		<Note>14.25</Note>
+	</Student>
+	<Student>
+		<FirstName>kharchich</FirstName>
+		<LastName>Mouaad</LastName>
+		<Module>POO et XML </Module>
+		<Note>12</Note>
+		<Module>Modelisation et IHM</Module>
+		<Note>5.22</Note>
+		<Note>16</Note>
+		<Note>13.5</Note>
+		<Module>Administration et programmation systeme</Module>
+		<Note>16</Note>
+		<Module>Qualite et approche processus</Module>
+		<Note>13</Note>
+		<Module>Langues et communication 5</Module>
+		<Note>13</Note>
+		<Module>Technologies distribuees</Module>
+		<Note>12</Note>
+		<Module>Bases de donnees avancees 2 et Cloud</Module>
+		<Note>13</Note>
+		<Module>Traitement de l'image</Module>
+		<Note>14.7</Note>
+		<Module>Prge declarative et TAV</Module>
+		<Note>12</Note>
+		<Module>Securite et Cryptographie</Module>
+		<Note>12.8</Note>
+		<Module>Management de l'entreprise 5</Module>
+		<Note>14.25</Note>
+	</Student>
+	<Student>
+		<FirstName>khettab</FirstName>
+		<LastName>ziyad</LastName>
+		<Module>POO et XML </Module>
+		<Note>12</Note>
+		<Module>Modelisation et IHM</Module>
+		<Note>5.22</Note>
+		<Note>16</Note>
+		<Note>13.5</Note>
+		<Module>Administration et programmation systeme</Module>
+		<Note>16</Note>
+		<Module>Qualite et approche processus</Module>
+		<Note>16</Note>
+		<Module>Langues et communication 6</Module>
+		<Note>14</Note>
+		<Module>Technologies distribuees</Module>
+		<Note>15</Note>
+		<Module>Bases de donnees avancees 2 et Cloud</Module>
+		<Note>14</Note>
+		<Module>Traitement de l'image</Module>
+		<Note>14.7</Note>
+		<Module>Prge declarative et TAV</Module>
+		<Note>12</Note>
+		<Module>Securite et Cryptographie</Module>
+		<Note>12.8</Note>
+		<Module>Management de l'entreprise 6</Module>
+		<Note>14.25</Note>
+	</Student>
+	<Student>
+		<FirstName>Hssassa</FirstName>
+		<LastName>Naila</LastName>
+		<Module>POO et XML </Module>
+		<Note>12.8</Note>
+		<Module>Modelisation et IHM</Module>
+		<Note>5.22</Note>
+		<Note>18</Note>
+		<Note>13.5</Note>
+		<Module>Administration et programmation systeme</Module>
+		<Note>18</Note>
+		<Module>Qualite et approche processus</Module>
+		<Note>16</Note>
+		<Module>Langues et communication 2</Module>
+		<Note>12.8</Note>
+		<Module>Technologies distribuees</Module>
+		<Note>14.25</Note>
+		<Module>Bases de donnees avancees 2 et Cloud</Module>
+		<Note>10.5</Note>
+		<Module>Traitement de l'image</Module>
+		<Note>14.7</Note>
+		<Module>Prge declarative et TAV</Module>
+		<Note>12</Note>
+		<Module>Securite et Cryptographie</Module>
+		<Note>12.8</Note>
+		<Module>Management de l'entreprise 2</Module>
+		<Note>12</Note>
+	</Student>
+	<Student>
+		<FirstName>Kssiri</FirstName>
+		<LastName>Mohamed akram</LastName>
+		<Module>POO et XML </Module>
+		<Note>14.25</Note>
+		<Module>Modelisation et IHM</Module>
+		<Note>5.22</Note>
+		<Note>14.25</Note>
+		<Note>13.5</Note>
+		<Module>Administration et programmation systeme</Module>
+		<Note>14.25</Note>
+		<Module>Qualite et approche processus</Module>
+		<Note>16</Note>
+		<Module>Langues et communication 7</Module>
+		<Note>15</Note>
+		<Module>Technologies distribuees</Module>
+		<Note>14</Note>
+		<Module>Bases de donnees avancees 2 et Cloud</Module>
+		<Note>15</Note>
+		<Module>Traitement de l'image</Module>
+		<Note>14.7</Note>
+		<Module>Prge declarative et TAV</Module>
+		<Note>12</Note>
+		<Module>Securite et Cryptographie</Module>
+		<Note>12.8</Note>
+		<Module>Management de l'entreprise 7</Module>
+		<Note>12</Note>
+	</Student>
+	<Student>
+		<FirstName>Mallouk</FirstName>
+		<LastName>Amina</LastName>
+		<Module>POO et XML </Module>
+		<Note>13.5</Note>
+		<Module>Modelisation et IHM</Module>
+		<Note>1</Note>
+		<Note>13.5</Note>
+		<Note>16</Note>
+		<Module>Administration et programmation systeme</Module>
+		<Note>13.5</Note>
+		<Module>Qualite et approche processus</Module>
+		<Note>11</Note>
+		<Module>Langues et communication 9</Module>
+		<Note>17</Note>
+		<Module>Technologies distribuees</Module>
+		<Note>8</Note>
+		<Module>Bases de donnees avancees 2 et Cloud</Module>
+		<Note>11</Note>
+		<Module>Traitement de l'image</Module>
+		<Note>14.7</Note>
+		<Module>Prge declarative et TAV</Module>
+		<Note>12</Note>
+		<Module>Securite et Cryptographie</Module>
+		<Note>12.8</Note>
+		<Module>Management de l'entreprise 9</Module>
+		<Note>16</Note>
+	</Student>
+	<Student>
+		<FirstName>Merroun</FirstName>
+		<LastName>Hanane</LastName>
+		<Module>POO et XML </Module>
+		<Note>12.8</Note>
+		<Module>Modelisation et IHM</Module>
+		<Note>2</Note>
+		<Note>12.8</Note>
+		<Note>18</Note>
+		<Module>Administration et programmation systeme</Module>
+		<Note>12.8</Note>
+		<Module>Qualite et approche processus</Module>
+		<Note>17</Note>
+		<Module>Langues et communication 10</Module>
+		<Note>18</Note>
+		<Module>Technologies distribuees</Module>
+		<Note>13</Note>
+		<Module>Bases de donnees avancees 2 et Cloud</Module>
+		<Note>11</Note>
+		<Module>Traitement de l'image</Module>
+		<Note>14.7</Note>
+		<Module>Prge declarative et TAV</Module>
+		<Note>12</Note>
+		<Module>Securite et Cryptographie</Module>
+		<Note>12.8</Note>
+		<Module>Management de l'entreprise 10</Module>
+		<Note>14.25</Note>
+	</Student>
+	<Student>
+		<FirstName>Zenagui</FirstName>
+		<LastName>Rabia</LastName>
+		<Module>POO et XML </Module>
+		<Note>12</Note>
+		<Module>Modelisation et IHM</Module>
+		<Note>6</Note>
+		<Note>12</Note>
+		<Note>13.5</Note>
+		<Module>Administration et programmation systeme</Module>
+		<Note>12</Note>
+		<Module>Qualite et approche processus</Module>
+		<Note>12</Note>
+		<Module>Langues et communication 22</Module>
+		<Note>12</Note>
+		<Module>Technologies distribuees</Module>
+		<Note>19</Note>
+		<Module>Bases de donnees avancees 2 et Cloud</Module>
+		<Note>8.99</Note>
+		<Module>Traitement de l'image</Module>
+		<Note>11</Note>
+		<Module>Prge declarative et TAV</Module>
+		<Note>11</Note>
+		<Module>Securite et Cryptographie</Module>
+		<Note>11</Note>
+		<Module>Management de l'entreprise 22</Module>
+		<Note>11</Note>
+	</Student>
+	<Student>
+		<FirstName>OULAD SINE</FirstName>
+		<LastName>Saloua</LastName>
+		<Module>POO et XML </Module>
+		<Note>11</Note>
+		<Module>Modelisation et IHM</Module>
+		<Note>16</Note>
+		<Note>14</Note>
+		<Note>12</Note>
+		<Module>Administration et programmation systeme</Module>
+		<Note>14</Note>
+		<Module>Qualite et approche processus</Module>
+		<Note>15</Note>
+		<Module>Langues et communication 16</Module>
+		<Note>15</Note>
+		<Module>Technologies distribuees</Module>
+		<Note>2</Note>
+		<Module>Bases de donnees avancees 2 et Cloud</Module>
+		<Note>19</Note>
+		<Module>Traitement de l'image</Module>
+		<Note>15</Note>
+		<Module>Prge declarative et TAV</Module>
+		<Note>9</Note>
+		<Module>Securite et Cryptographie</Module>
+		<Note>12.8</Note>
+		<Module>Management de l'entreprise 16</Module>
+		<Note>12</Note>
+	</Student>
+</Notes>
